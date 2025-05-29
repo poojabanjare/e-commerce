@@ -54,7 +54,7 @@ export default {
   max-width: 600px;
   margin: 50px auto;
   padding: 30px;
-  background: #ffffff;
+  background:rgb(243, 251, 247);
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
   border-radius: 10px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -75,7 +75,7 @@ export default {
 
 .contact-form input,
 .contact-form textarea {
-  width: 100%;
+    width: 95%;
   padding: 10px 12px;
   margin-top: 5px;
   border: 1px solid #ccc;
@@ -99,7 +99,8 @@ export default {
   display: block;
   margin: 20px auto 0;
   padding: 12px 30px;
-  background-color: #4caf50;
+  background-color:rgb(76, 162, 175);
+
   color: white;
   font-size: 16px;
   border: none;
